@@ -56,7 +56,7 @@ Ensure you have the following installed on your system:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/karansinghthkur/pythnmicroservices.git
+git clone https://github.com/karansinghthkur/python-microservices.git
 cd your-repo-name
 ```
 
